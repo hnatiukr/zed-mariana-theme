@@ -1,0 +1,7 @@
+id = "sublime-mariana-theme"
+name = "Sublime Mariana Theme"
+version = "1.1.0"
+schema_version = 1
+authors = ["Roman Hnatiuk<hnatiukr@pm.me>"]
+description = "Theme for the Zed Editor that imitates Sublime Text 4's Mariana theme."
+repository = "https://github.com/hnatiukr/zed-mariana-theme"
