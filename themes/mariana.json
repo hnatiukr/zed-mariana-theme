@@ -4,7 +4,7 @@
   "author": "Roman Hnatiuk<hnatiukr@pm.me>",
   "themes": [
     {
-      "name": "Mariana",
+      "name": "Sublime Mariana",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -314,7 +314,7 @@
       }
     },
     {
-      "name": "Mariana Breakers",
+      "name": "Sublime Breakers",
       "appearance": "light",
       "style": {
         "accents": [
