@@ -1,3 +1,5 @@
+[![.github/workflows/release.yml](https://github.com/hnatiukr/zed-mariana-theme/actions/workflows/release.yml/badge.svg)](https://github.com/hnatiukr/zed-mariana-theme/actions/workflows/release.yml)
+
 # Sublime Mariana Theme for Zed Editor
 
 Theme for the [Zed Editor](https://zed.dev/) that imitates Sublime Text 4's Mariana theme.
