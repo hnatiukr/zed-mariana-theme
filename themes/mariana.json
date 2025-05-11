@@ -262,6 +262,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "string.doc": {
+            "color": "#a6acb9",
+            "font_style": null,
+            "font_weight": null
+          },
           "string.escape": {
             "color": "#c695c6",
             "font_style": null,
@@ -299,6 +304,11 @@
           },
           "type.builtin": {
             "color": "#c695c6",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.parameter": {
+            "color": "#ffa02e",
             "font_style": null,
             "font_weight": null
           },
@@ -572,6 +582,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "string.doc": {
+            "color": "#a6acb9",
+            "font_style": null,
+            "font_weight": null
+          },
           "string.escape": {
             "color": "#aa71a4",
             "font_style": null,
@@ -609,6 +624,11 @@
           },
           "type.builtin": {
             "color": "#aa71a4",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.parameter": {
+            "color": "#ffa02e",
             "font_style": null,
             "font_weight": null
           },
