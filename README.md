@@ -2,28 +2,36 @@
 
 # Sublime Mariana Theme for Zed Editor
 
-Theme for the [Zed Editor](https://zed.dev/) that imitates Sublime Text 4's Mariana theme.
+Brings Sublime Text 4's Mariana theme to [Zed Editor](https://zed.dev/).
 
-The Mariana color scheme is known for its cool, muted tones that provide a soothing yet vibrant coding environment, making it easy on the eyes during long coding sessions. This theme avoids the use of cursive or italic styles, ensuring a consistent and clean look across all text elements for enhanced readability and focus.
+Uses cool, muted colours that reduce eye strain. Skips cursive and italic fonts entirely—just clean, readable text.
 
-## Installation
+## Installation and usage
 
 First, install Sublime Mariana via extenstion's manager:
 
-1. `Go` → `Command Palette...` → **zed:extensions** (or use hotkeys `⌘⇧X`)
+1. `Go` → `Command Palette...` (`⌘⇧P`) → **zed:extensions** (or use hotkeys `⌘⇧X`)
 2. Select `Sublime Mariana Theme` and press `Install`.
 
-Then, enable it:
+To enable:
 
-1. `Go` → `Command Palette...` → **theme selector:toggle** (or use hotkeys `⌘K ⌘T`)
-2. Pick `Sublime Mariana` or `Sublime Breakers`
+1. `Go` → `Command Palette...` (`⌘⇧P`) → **theme selector:toggle** (or use hotkeys `⌘K ⌘T`)
+2. Select `Sublime Mariana` (dark) or `Sublime Breakers` (light)
 
 ## Variations
 
-This theme brings the beloved aesthetic of Sublime Text 4's Mariana theme to the Zed editor, with two distinct variations: Mariana and Mariana Breakers. The Mariana variation closely mirrors the original, offering a cool, muted color scheme that’s easy on the eyes. Meanwhile, Mariana Breakers introduces subtle enhancements for a refreshing twist, maintaining the same calming vibe with added contrast for improved readability.
+The theme comes in two versions: _Mariana_ and _Mariana Breakers_. They tick close to the original Sublime Text version. Mariana Breakers adds more contrast keeping the same colour palette.
 
 ![Mariana](mariana-zed.png)
 
 ## Inspiration
 
 [bIaqat/mariana-theme-zed](https://github.com/bIaqat/mariana-theme-zed/)
+
+## License
+
+Made by a human being, not LLM.
+
+Copyright © 2024 Roman Hnatiuk
+
+Licensed under MIT.
