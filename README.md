@@ -1,10 +1,8 @@
 [![.github/workflows/release.yml](https://github.com/hnatiukr/zed-mariana-theme/actions/workflows/release.yml/badge.svg)](https://github.com/hnatiukr/zed-mariana-theme/actions/workflows/release.yml)
 
-# Sublime Mariana Theme for Zed Editor
+# Sublime Mariana theme for Zed editor
 
-Brings Sublime Text 4's Mariana theme to [Zed Editor](https://zed.dev/).
-
-Uses cool, muted colours that reduce eye strain. Skips cursive and italic fonts entirely—just clean, readable text.
+Sublime Text 4's Mariana theme to [Zed Editor](https://zed.dev/). Skips cursive and italic fonts entirely.
 
 ## Installation and usage
 
@@ -20,7 +18,7 @@ To enable:
 
 ## Variations
 
-The theme comes in two versions: _Mariana_ and _Mariana Breakers_. They tick close to the original Sublime Text version. Mariana Breakers adds more contrast keeping the same colour palette.
+Comes in two versions: _Mariana_ and _Mariana Breakers_, close to the original Sublime Text version.
 
 ![Mariana](mariana-zed.png)
 
